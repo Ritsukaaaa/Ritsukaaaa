@@ -20,10 +20,10 @@
 &nbsp;
 <img src="https://img.shields.io/badge/📍_Indonesia-Jawa_Barat-58a6ff?style=flat-square&labelColor=0d1117" />
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Aceviper-Zamm&style=flat-square&color=58a6ff&label=visitors" />
+<img src="https://komarev.com/ghpvc/?username=Ritsukaaaa&style=flat-square&color=58a6ff&label=visitors" />
 &nbsp;
-<a href="https://github.com/Aceviper-Zamm?tab=followers">
-  <img src="https://img.shields.io/github/followers/Aceviper-Zamm?style=flat-square&color=58a6ff&labelColor=0d1117&label=followers" />
+<a href="https://github.com/Ritsukaaaa?tab=followers">
+  <img src="https://img.shields.io/github/followers/Ritsukaaaa?style=flat-square&color=58a6ff&labelColor=0d1117&label=followers" />
 </a>
 
 </div>
@@ -178,26 +178,26 @@ const azzam = {
 
 <div align="center">
 
-<a href="https://github.com/Aceviper-Zamm">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aceviper-Zamm&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
+<a href="https://github.com/Ritsukaaaa">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ritsukaaaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Aceviper-Zamm">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aceviper-Zamm&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<a href="https://github.com/Ritsukaaaa">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritsukaaaa&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </a>
 
 <br/><br/>
 
 <!-- Streak -->
-<a href="https://github.com/Aceviper-Zamm">
-  <img width="80%" src="https://streak-stats.demolab.com?user=Aceviper-Zamm&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideLabels=58a6ff&sideNums=c9d1d9&dates=484f58" />
+<a href="https://github.com/Ritsukaaaa">
+  <img width="80%" src="https://streak-stats.demolab.com?user=Ritsukaaaa&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideLabels=58a6ff&sideNums=c9d1d9&dates=484f58" />
 </a>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<a href="https://github.com/Aceviper-Zamm">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aceviper-Zamm&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" />
+<a href="https://github.com/Ritsukaaaa">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ritsukaaaa&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" />
 </a>
 
 </div>
@@ -212,7 +212,7 @@ const azzam = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aceviper-Zamm&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ritsukaaaa&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" />
 
 </div>
 
@@ -226,9 +226,9 @@ const azzam = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aceviper-Zamm/Aceviper-Zamm/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aceviper-Zamm/Aceviper-Zamm/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Aceviper-Zamm/Aceviper-Zamm/output/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ritsukaaaa/Ritsukaaaa/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ritsukaaaa/Ritsukaaaa/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Ritsukaaaa/Ritsukaaaa/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -254,7 +254,7 @@ const azzam = {
 
 <div align="center">
 
-<a href="https://github.com/Aceviper-Zamm">
+<a href="https://github.com/Ritsukaaaa">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
