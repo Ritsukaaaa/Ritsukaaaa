@@ -10,15 +10,15 @@
 
 <!-- Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=55&lines=%3E_+hello+world;siswa+RPL+%40+IDN+Boarding+School;suka+ngoding%2C+bukan+suka+error+%F0%9F%98%85;lagi+deep+dive+ke+fullstack+dev;kopi+%2B+VS+Code+%3D+produktif" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=620&height=55&lines=%3E_+hello+world;Software+Engineering+Student;Building+full-stack+web+%26+mobile+apps;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- Quick info pills -->
-<img src="https://img.shields.io/badge/🎓_IDN_Boarding_School-RPL-58a6ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🎓_IDN_Boarding_School-Software_Engineering-58a6ff?style=flat-square&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/📍_Indonesia-Jawa_Barat-58a6ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/📍_Based_in-Indonesia-58a6ff?style=flat-square&labelColor=0d1117" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Ritsukaaaa&style=flat-square&color=58a6ff&label=visitors" />
 &nbsp;
@@ -34,33 +34,33 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Tentang Gue</h2>
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me</h2>
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
 ```js
 const azzam = {
-  nama:     "Sultan Azzam Pangestu",
-  sekolah:  "IDN Boarding School — RPL",
-  umur:     16,
-  status:   "belajar terus, error terus, fix terus 🔁",
+  name:       "Sultan Azzam Pangestu",
+  school:     "IDN Boarding School — Software Engineering",
+  age:        16,
+  status:     "code, break, debug, repeat 🔁",
 
-  sedangBelajar: [
+  learning: [
     "React & Next.js",
     "Flutter & Dart",
     "Node.js + Express",
     "PostgreSQL & Supabase",
   ],
 
-  spikyPoint:    "bikin UI yang enak diliat",
-  funFact:       "50% waktu ngoding, 50% googling error",
+  strength:   "crafting clean, pixel-perfect interfaces",
+  funFact:    "50% coding, 50% reading Stack Overflow",
 };
 ```
 
 <br clear="both"/>
 
-> **Gue siswa RPL di IDN Boarding School.** Fokus utama gue sekarang adalah ngedalemin fullstack web & mobile development.
-> Gue percaya cara terbaik buat belajar ngoding itu ya langsung bikin project — pecahin masalah beneran, bukan cuma baca teori.
+> I'm a **Software Engineering** student at **IDN Boarding School**, focused on full-stack web and mobile development.
+> I believe the best way to learn is by building real projects — solving actual problems, not just reading theory.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -68,7 +68,7 @@ const azzam = {
 <!--                     TECH STACK                               -->
 <!-- ============================================================ -->
 
-<h2>⚡ Tech yang Gue Pake</h2>
+<h2>⚡ Tech Stack</h2>
 
 <div align="center">
 
@@ -129,7 +129,7 @@ const azzam = {
 <!--                   WHAT I'M UP TO                             -->
 <!-- ============================================================ -->
 
-<h2>🎯 Lagi Ngapain Sekarang</h2>
+<h2>🎯 What I'm Working On</h2>
 
 <div align="center">
 
@@ -137,30 +137,30 @@ const azzam = {
 <tr>
 <td align="center" width="50%">
 
-🔨 **Lagi Dibangun**
+🔨 **Currently Building**
 
 </td>
 <td align="center" width="50%">
 
-📚 **Lagi Dipelajarin**
+📚 **Currently Learning**
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-- 🌐 Web app fullstack pake **Next.js + Supabase**
-- 📱 Mobile app pake **Flutter**
-- 🎨 Eksplorasi **design system** sendiri
-- 🤖 Coba-coba automasi pake **Python scripts**
+- 🌐 Full-stack web apps with **Next.js + Supabase**
+- 📱 Cross-platform mobile apps with **Flutter**
+- 🎨 Building my own **design system** from scratch
+- 🤖 Automation scripts with **Python**
 
 </td>
 <td valign="top">
 
-- ⚛️ Deep dive ke **React Server Components**
-- 🗄️ Relational DB design (**PostgreSQL**)
+- ⚛️ Deep dive into **React Server Components**
+- 🗄️ Relational database design with **PostgreSQL**
 - 🔐 Auth flows — **JWT, OAuth, session-based**
-- ☁️ Cloud deployment & **CI/CD pipeline**
+- ☁️ Cloud deployment & **CI/CD pipelines**
 
 </td>
 </tr>
@@ -214,11 +214,6 @@ const azzam = {
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ritsukaaaa&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6" />
 
-<br/>
-
-<!-- Fallback: jika trophy di atas tidak muncul, GitHub kadang cache lama -->
-<img src="https://github-trophies.vercel.app/?username=Ritsukaaaa&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6" />
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -240,7 +235,7 @@ const azzam = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================================================ -->
-<!--                     SPOTIFY / QUOTE                          -->
+<!--                     QUOTE                                    -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -255,7 +250,7 @@ const azzam = {
 <!--                     CONNECT                                  -->
 <!-- ============================================================ -->
 
-<h2>📬 Hubungi Gue</h2>
+<h2>📬 Get in Touch</h2>
 
 <div align="center">
 
@@ -287,6 +282,6 @@ const azzam = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" />
 
-<sub>made with ☕ and mass-googling by <b>Azzam</b></sub>
+<sub>Built with ☕ and curiosity by <b>Azzam</b></sub>
 
 </div>
