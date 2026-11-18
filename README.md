@@ -212,7 +212,12 @@ const azzam = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ritsukaaaa&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ritsukaaaa&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6" />
+
+<br/>
+
+<!-- Fallback: jika trophy di atas tidak muncul, GitHub kadang cache lama -->
+<img src="https://github-trophies.vercel.app/?username=Ritsukaaaa&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6" />
 
 </div>
 
